@@ -1,4 +1,4 @@
-![alt text](https://github.com/zisispa/contact-keeper/blob/master/homepage.PNG?raw=true)
+![alt text](https://github.com/zisispa/employeemanagementsystem/blob/master/homepage.PNG?raw=true)
 
 ## About this Project
 
