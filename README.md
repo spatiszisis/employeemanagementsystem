@@ -2,7 +2,7 @@
 
 ## About this Project
 
-This is a simple Employee Management System implemented with React and Java Spring.The user can add or edit and remove a employee from the table.
+This is a simple Employee Management System implemented with React and Java Spring. The user can add or edit and remove a employee from the table.
 
 ## Technologies
 
