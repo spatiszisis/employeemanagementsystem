@@ -1,13 +1,13 @@
-import React from 'react'
+import React from "react";
 
-import EmployeeList from '../components/EmployeeList/EmployeeList';
+import EmployeeList from "../components/EmployeeList/EmployeeList";
 
 const Home = () => {
-    return (
-        <>
-            <EmployeeList />
-        </>
-    )
-}
+  return (
+    <>
+      <EmployeeList />
+    </>
+  );
+};
 
-export default Home
+export default Home;
